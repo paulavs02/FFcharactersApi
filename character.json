@@ -1,4 +1,5 @@
-[
+{
+    "characters":[
     {
         "id":1,
         "nombre":"Kelly",
@@ -704,4 +705,5 @@
         "icono":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9cde29564cf8729927dc5a0afee459a7.png",
         "bio":"Nadie sabe cómo llegó a Bermuda, excepto que estuvo aquí antes que cualquiera. Extremadamente bueno para adaptarse al medioambiente, es como un camaleón que sobrevive y prospera."
     }  
-]
+ ]
+}
