@@ -703,8 +703,8 @@
             "modo":"Pasivo",
             "estrategia":"Ataque",
             "detalle":"Recupera automaticamente 2 PE por segundo hasta completar. Modo asalto: se activa cuando los PE esten llenos y cuando el usuario de la habilidad ataque a un enemigo con escudo o armadura, se consume 5 PE por segundo. Cada ataque a enemigos con escudos o armadura reduce también  sus puntos de escudo o durabilidad.",
-            "foto":"https://i0.wp.com/www.gamerfocus.co/wp-content/uploads/2024/03/image-285.png?w=496&ssl=1",
-            "icono":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/88706505a1c569a5be94c63569e17c61.png",
+            "foto":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/kairos_avatar.png",
+            "icono":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/kairos_icon.png",
             "bio":"Kairos era un soldado de las Fuerzas Especiales, pero su destino cambió drásticamente cuando se encontró con una misteriosa fuente de energía que transformó su cuerpo y ocasionó que quisiera consumir mas energía sin llegar a saciarse."
         },
         {
@@ -795,6 +795,20 @@
         },
         {
             "id":57,
+            "nombre":"Kassie",
+            "genero":"Femenino",
+            "edad":"19",
+            "cumple": "30 de julio",
+            "habilidad": "ElectroTerapia",
+            "modo":"Activo",
+            "estrategia":"Sinergia",
+            "detalle":"Terapería enfocada: Utilízate de nuevo para restaurar al instante 100 HP para el objetivo. (La habilidad será publicada automáticamente, mientras que el HP del objetivo está por debajo de 50 La cantidad de curación será del 50% de eso cuando se usa manualmente.) Refrio: 60s.",
+            "foto":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/kassie_avatar.png",
+            "icono":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/kassie_icon.png",
+            "bio":"Una neurocientícico paranoica, excéntrica que camina la línea entre el bien y el mal. Ella está obsesionada con las terapias de electrochoque y sigue su propio conjunto de reglas."
+        },
+        {
+            "id":58,
             "nombre":"Eva",
             "genero":"Femenino",
             "edad":"Desconocido",
@@ -803,12 +817,12 @@
             "modo":"No",
             "estrategia":"No",
             "detalle":"No incluye habilidad, puede equipar habilidades al desbloquearlas",
-            "foto":"https://static.gameloop.com/syzs_cms/202205/f15d3a2e74e1ef755270f4d723f83601.png?imageMogr2/thumbnail/680x/format/webp",
+            "foto":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/eva_avatar.jpg",
             "icono":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9cde29564cf8729927dc5a0afee459a7.png",
             "bio":"Al momento del lanzamiento del juego su nombre era Nulla. Nadie sabe cómo llegó a Bermuda, excepto que estuvo aquí antes que cualquiera. Extremadamente bueno para adaptarse al medioambiente, es como un camaleón que sobrevive y prospera."
         },
         {
-            "id":58,
+            "id":59,
             "nombre":"Adan",
             "genero":"Masculino",
             "edad":"Desconocido",
@@ -817,7 +831,7 @@
             "modo":"No",
             "estrategia":"No",
             "detalle":"No incluye habilidad, puede equipar habilidades al desbloquearlas",
-            "foto":"https://static.gameloop.com/syzs_cms/202205/331647d7cb6dfb828aeaaf6b9a0637b3.png?imageMogr2/thumbnail/680x/format/webp",
+            "foto":"https://raw.githubusercontent.com/paulavs02/FFcharactersApi/main/images/adan_avatar.jpg",
             "icono":"https://freefiremobile-a.akamaihd.net/common/web_event/official2.ff.garena.all/img/20228/9cde29564cf8729927dc5a0afee459a7.png",
             "bio":"Al momento del lanzamiento del juego su nombre era Primis. Nadie sabe cómo llegó a Bermuda, excepto que estuvo aquí antes que cualquiera. Extremadamente bueno para adaptarse al medioambiente, es como un camaleón que sobrevive y prospera."
         } 
